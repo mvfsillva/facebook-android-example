@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Exemplo - Facebook Login</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action_show_access_token_title">Print Access Token</string>
+
+    <string name="app_id">689088124560891</string>
+    <string name="title_activity_access_token">AccessTokenActivity</string>
+    <string name="title_activity_show_access_token">ShowAccessTokenActivity</string>
+    <string name="title_activity_share_photo">SharePhotoActivity</string>
+
+</resources>
